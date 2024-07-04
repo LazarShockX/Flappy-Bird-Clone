@@ -1,1 +1,4 @@
 # Flappy-Bird-Clone
+Developing a Flappy Bird clone in Unity provides a comprehensive learning experience. I've become familiar with the Unity Editor, creating and manipulating Game Objects and using Components. Scripts for game logic, player movement, and collision detection are written in C#. I worked with sprites, created simple animations, and used Unity's 2D physics engine for gravity and collisions.
+
+Implemented responsive player controls, procedural obstacle generation, and a scoring system. Created and managed UI elements. Debugging and optimization techniques, version control with Git, and maintaining a well-organized project structure. Built and deployed the game to different platforms and understood the importance of playtesting and iteration. By the end, I had a solid foundation in game development with Unity.
